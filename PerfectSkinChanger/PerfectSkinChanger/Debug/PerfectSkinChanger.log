@@ -1,0 +1,7 @@
+﻿  PerfectSkinChanger.cpp
+c:\users\everett\documents\visual studio 2015\projects\perfectskinchanger\perfectskinchanger\color.h(19): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+c:\users\everett\documents\visual studio 2015\projects\perfectskinchanger\perfectskinchanger\color.h(24): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+  LINK : c:\users\everett\documents\visual studio 2015\Projects\PerfectSkinChanger\Debug\PerfectSkinChanger.dll not found or not built by the last incremental link; performing full link
+     Creating library c:\users\everett\documents\visual studio 2015\Projects\PerfectSkinChanger\Debug\PerfectSkinChanger.lib and object c:\users\everett\documents\visual studio 2015\Projects\PerfectSkinChanger\Debug\PerfectSkinChanger.exp
+  PerfectSkinChanger.vcxproj -> c:\users\everett\documents\visual studio 2015\Projects\PerfectSkinChanger\Debug\PerfectSkinChanger.dll
+  PerfectSkinChanger.vcxproj -> c:\users\everett\documents\visual studio 2015\Projects\PerfectSkinChanger\Debug\PerfectSkinChanger.pdb (Full PDB)
